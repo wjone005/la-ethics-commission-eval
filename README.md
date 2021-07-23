@@ -2,6 +2,8 @@
 
 A React app search engine for Los Angeles Candidate Contributions.
 
+![app demo](https://github.com/wjone005/la-ethics-commission-eval/blob/main/public/ethics_demo.gif)
+
 ## Installation
 1. Clone down this repository. You will need node and npm installed globally on your machine.
 
@@ -34,7 +36,7 @@ A React app search engine for Los Angeles Candidate Contributions.
 
 ## Live Demo
 
-* [Live Demo](https://codesandbox.io/s/github/wjone005/la-ethics-commission-eval) - See the project live.
+* [Live Demo](https://frosty-jennings-273fb8.netlify.app) - See the project live.
 
 ## License
 
