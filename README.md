@@ -28,7 +28,7 @@ A React app search engine for Los Angeles Candidate Contributions.
 
 ## Special Thanks
 
-* [Material-Table](https://material-table.com/) - Documentation on how to setup Material-Table Library
+* [Material-Table](https://material-table.com/) - Documentation on how to setup Material-Table Library.
 
 * [React Bootstrap](https://react-bootstrap.github.io/) - Documentation on how to setup React Bootstrap front-end framework.
 
