@@ -10,9 +10,11 @@ export const SearchResults=() => {
     {title:'Contributor', field:'CON_NAME'},
     {title:'Candidate', field:'cand_name'},
     {title:'Committee', field:'CMT_NAME', render:(data)=>{
-      return `${data.CMT_NAME}  [${data.CON_ID}]`
+      return `${data.CMT_NAME},  ID:${data.cmt_id}`
     }},
-    {title:'Amount', field:'CON_AMOUNT'}
+    {title:'Amount', field: 'CON_AMOUNT', render:(data)=>{
+      return `$${data.CON_AMOUNT}`
+    }},
   ]
   
   // Import Candidate Contributions Data
